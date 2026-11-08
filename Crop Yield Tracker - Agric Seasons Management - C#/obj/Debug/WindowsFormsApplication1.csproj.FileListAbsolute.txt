@@ -1,0 +1,20 @@
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\agric.accdb
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\brennon shenjere\Desktop\final agric records\finalAgricRec\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\brennon shenjere\Desktop\final agric records\finalAgricRec\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\brennon shenjere\Desktop\final agric records\finalAgricRec\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\brennon shenjere\Desktop\final agric records\finalAgricRec\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\brennon shenjere\Desktop\final agric records\finalAgricRec\WindowsFormsApplication1\obj\Debug\FinalAgricRec.Form1.resources
+C:\Users\brennon shenjere\Desktop\final agric records\finalAgricRec\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\brennon shenjere\Desktop\final agric records\finalAgricRec\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\brennon shenjere\Desktop\final agric records\finalAgricRec\WindowsFormsApplication1\bin\Debug\agric.accdb
+C:\Users\brennon shenjere\Desktop\final agric records\finalAgricRec\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\brennon shenjere\Desktop\final agric records\finalAgricRec\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
